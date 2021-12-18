@@ -1,0 +1,221 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    font-family: 'Roboto', 'Arial', sans-serif;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.container{
+    width: 100%;
+    max-width: 1040px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header_top_button{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header_list_ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    
+
+}
+.list_button {
+    margin-left: 15px;
+}
+.list_button a{
+    text-decoration: none;
+    color: #333333;
+    font-size: 15px;
+    line-height: 150%;
+}
+.input_header_top{
+    width: 150px;
+    font-size: 15px;
+    border: none;
+    border-bottom: 1px solid #333;
+    outline: none;
+    padding-bottom: 6px;
+}
+
+
+
+/* MANIN TOP */
+
+.img_main{
+    display: flex;
+    margin-left: 160px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text_main_top h1{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+    margin-bottom: 30px;
+}
+
+.text_main_top p{
+    font-size: 16px;
+    color: #777;
+    padding-left: 40px;
+    border-left: 3px solid #888;
+    margin-bottom: 30px;
+}
+.text_main_top a{
+    padding: 12px 38.5px;
+    color: #fff;
+    background-color: #ea625c;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+}
+.img_main_top{
+    padding-top: 50px;
+}
+
+
+
+
+/* main center */
+
+
+.sevic_apple{
+    display: flex;
+    justify-content: space-between;
+}
+.box_text_A{
+    width: 280px;
+    height: 168px;
+    margin-left: 0px 40px;
+}
+
+.box_text_A h2{
+    font-size: 18px;
+    line-height: 150%;
+    color: #222222;
+    margin: 30px 0px;
+
+}
+.box_text_A p{
+    font-size: 15px;
+    color: rgb(51, 51, 51);
+    line-height: 24px;
+    margin: 20px 0px;
+    
+
+}
+
+.leard_more{
+    align-items: center;
+    color: rgb(234, 98, 92);
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 25.6px;
+    padding-left: 50px;
+    text-decoration: none; 
+}
+
+
+
+/* footer main  */
+
+.Flexible_apple{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 150px;
+    margin-bottom: 90px;
+}
+
+.text_main_fouter h1{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+    color: #000;
+    margin-bottom: 30px;
+}
+
+.text_main_fouter p{
+    font-size: 16px;
+    color: #777;
+    padding-left: 40px;
+    border-left: 3px solid #888;
+    margin-bottom: 30px;
+}
+.text_main_fouter a{
+    padding: 12px 38.5px;
+    color: #fff;
+    background-color: #ea625c;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    text-decoration: none;
+}
+
+
+
+/* footer img */
+
+.footer_img{
+    background: url('img/runners\ 1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.footer_img{
+    display: flex;
+    
+}
+.text_footer{
+    margin-top: 60px;
+    margin-left: 700px;
+}
+.text_footer h2{
+    font-weight: 700;
+    color: #fff;
+    font-size: 50px;
+    line-height: 60px;
+    margin-bottom: 30px;
+}
+.text_footer p{
+    border-left: 3px solid #fff;
+    color: #fff;
+    text-shadow: 0px 0px 10px rgb(0 0 0);
+    font-size: 16px;
+    padding-left: 40px;
+    margin-bottom: 30px;
+}
+
+
+.footer_buttom{
+    padding: 12px 38.5px;
+    color: #fff;
+    background-color: #ea625c;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
